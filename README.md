@@ -1,2 +1,2 @@
 # ForPublicLink
-# This reponsitory use for public link app by HoangMit(黃文選)
+# This repository use for public link app by HoangMit(黃文選)
